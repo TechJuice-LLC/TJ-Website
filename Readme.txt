@@ -1,1 +1,1 @@
-TechJuice LLC came into existence with one core aim: To catapult Ghana and other African neighbors to the heights reached by Western and European countries in this forth Industrial technological disrupt. Various schemes have been developed to be the medium of this transition. We are a team of many figure's, working remotely.
+Site Name: TechJuice
