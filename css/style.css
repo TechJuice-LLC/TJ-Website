@@ -1022,6 +1022,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin: 0 2px;
 }
 
+.img-fluid{
+  height: 350px;
+  width: 350px;
+  background-color: #fff
+}
+
 
 /* Testimonials Section
 --------------------------------*/
